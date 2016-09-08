@@ -3,28 +3,28 @@
   translated: 12692
   translated_percent: 100
   verified: 12692
-  verified_progress: 100
+  verified_percent: 100
 - section: NPC
   total: 7553
   translated: 7553
   translated_percent: 100
   verified: 7553
-  verified_progress: 100
+  verified_percent: 100
 - section: Story
   total: 50370
   translated: 50370
   translated_percent: 100
   verified: 50370
-  verified_progress: 100
+  verified_percent: 100
 - section: Misc
   total: 6603
   translated: 6603
   translated_percent: 100
   verified: 6603
-  verified_progress: 100
+  verified_percent: 100
 - section: Menu
   total: 11187
   translated: 11187
   translated_percent: 100
   verified: 10774
-  verified_progress: 96
+  verified_percent: 96
