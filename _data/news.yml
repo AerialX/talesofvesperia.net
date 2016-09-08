@@ -1,0 +1,86 @@
+- name: Pikachu025
+  image: pikachu025.png
+  date: Sat. March 14th, 2015
+  title: Patch Release
+  content: |
+      <p>I am finally proud to present to you our finished translation patch for the PS3 version of Tales of Vesperia.</p>
+      <p>This translation comes in two variations.</p><br/>
+      <h1 style="text-align:center;"><a href="http://hyouta.com/vesperia/">The Online Translation Guide</a></h1>
+      <p style="text-align:center; font-style:italic;">If you intend to just use the online reference, click the link above and enjoy.</p>
+      <h1 style="text-align:center;"><a href="/">The Patch</a></h1>
+      <p style="text-align:center; font-style:italic;">Otherwise, you can download the patching tool on the main page after reading the information there carefully.</p>
+      <br />
+      <p>If you run into any issues using either the patch or the online translation guide, please report them in <a href="irc.htm">the IRC chat</a> or <a href="http://a0t.co/forum/forumdisplay.php?fid=15">the forum's dedicated Patch Issues thread</a>.</p>
+      <p>If you want to use this patch but don't have a copy of the game yet, you can buy one from Play-Asia using the links to the left.</p>
+      <br/>
+      <p>I hope you all enjoy the translation!</p>
+- name: Pikachu025
+  image: pikachu025.png
+  date: Fri. February 6th, 2015
+  title: Game Revisions
+  content: |
+      <p>Since we were asked, some clarification: All PS3 releases of the game are, as far as we know, identical and thus compatible with our patch. That said, if any differences are found we will update our patching tool and patch as quickly as possible to support all versions.
+      <a href="http://www.play-asia.com/tales-of-vesperia-playstation-3-the-best-new-price-version-paOS-13-49-en-70-82gt.html?affiliate_id=921804">You can buy the reduced price re-release from Play-Asia here.</a>
+- name: Pikachu025
+  image: pikachu025.png
+  date: Fri. January 23rd, 2015
+  title: Status Report
+  content: |
+      <p>Hey, everyone.
+      Since we've now entered the year 2015, I figured I should report on where this stands. Sadly, we didn't quite make the end of 2014 release that I've hoped for, but don't fret, we're still going! The automated patching tool is done, the online script and menu reference site is essentially done, we just need a bit more polishing on our text. Barring any unforeseen circumstances, this should be done within a month.</p>
+- name: Pikachu025
+  image: pikachu025.png
+  date: Mon. September 1st, 2014
+  title: We're still not dead yet
+  content: |
+      <p>Hey there.
+      It has come to my attention that some people believe that this project is dead. While I can't exactly fault you for that, considering that the website hasn't been updated in a year and a half, let me assure you that it is still going, slowly but surely.</p>
+      <p>I cannot guarantee an exact release date for this translation, but we're aiming to be done late this or early next year. I understand some of you may be frustrated by the slow progress, and I apologize for the long wait. Please just be patient for a few more months.</p>
+      <p>That said, here's some good news for people who lack the necessary hard- or software to directly run the patch. We plan on releasing an online script and menu database alongside the patch, where you will be able to easily cross-reference cutscenes, skits, items, artes, skills, and everything else neccessary to understand the game.</p>
+      Stay tuned!
+- name: ruta
+  image: ruta.png
+  date: Thu. March 7th, 2013
+  title: We're not dead yet
+  content: yet
+- name: ruta
+  image: ruta.png
+  date: Sun. March 18th, 2012
+  title: Long-Awaited Unimpressive Update
+  content: |
+      <p>Hello everyone. I thought I'd post an update because, even though we have bars on the right, they haven't really been moving much. Unfortunately, translation checking and editing takes a lot longer than an initial translation. Fortunately, I'm just about finished the main story, so things should go faster. The rest of the &quot;Story&quot; bar is primarily side quests, which are entirely new and thus easier to check. I'll also have more time soon. I aim to finish checking the skits and story by the one year anniversary of the initial translation completion.</p>
+      <p>Until then, I and the rest of the team can understand that the wait has been long. With Tales of Graces F coming out, there are also people who have updated their PS3 beyond a point where they can install a patch for Tales of Vesperia. We cannot release what we have of the script as-is, but we can give you the 360 script, if you'd like to follow along with the game as you play it. You can download it here:</p>
+      <p align="center">
+      <a href="downloads/ToV_Script_360.zip">ToV_Script_360.zip</a>
+      </p>
+      <p>This is just a bunch of text files. I believe they are on the PS3 disc itself as well. The VC files are the skits, and go in order of appearance. The VScenario files are the story, and also go in order of appearance. The side quests appear at the end of the VScenario files, regardless of when and where the side quest may appear in game.</p>
+      <p>When we're finished the translation, we'll look into providing our translation scripts in a similar manner for those who have already updated their PS3.</p>
+- name: Pikachu025
+  image: pikachu025.png
+  date: Wed. July 13th, 2011
+  title: Initial Translation Complete!
+  content: |
+      <p>Finally, after about half a year, we've finished our initial translation of all the text in the PS3 version of Tales of Vesperia. I won't lie, getting here hasn't exactly been entirely smooth, with some droughts of not a single new translated line for weeks, but everyone on the team is happy that we got this far.</p>
+      <p>That said, our work is far from done. There's still three full phases for our translation to undergo (translation verification, contextual review and editing), so the patch won't be out for a while. Right now we're starting the Translation Verification phase, in which we go over the text and confirm that it has been correctly translated, fixing any mistakes we happen to come across. I hope that the remaining phases will go faster than the first one, and while I can't give you any release date, I will give you some screenshots and clips from the current translation to hopefully shorten the wait a bit.</p>
+      <p align="center"><br>
+      <a href="screenshots/mainmenujpgub.jpg"><img src="screenshots/mainmenujpgub.jpg" width="150" height="110"></a>
+      <a href="screenshots/flynnartesjpgyz.jpg"><img src="screenshots/flynnartesjpgyz.jpg" width="150" height="110"></a>
+      <a href="screenshots/burstsecurityjpgum.jpg"><img src="screenshots/burstsecurityjpgum.jpg" width="150" height="110"></a><br>
+      <a href="screenshots/pattystatusjpgsy.jpg"><img src="screenshots/pattystatusjpgsy.jpg" width="150" height="110"></a>
+      <a href="screenshots/yurimysticjpgtu.jpg"><img src="screenshots/yurimysticjpgtu.jpg" width="150" height="110"></a>
+      <a href="screenshots/indignationjpgny.jpg"><img src="screenshots/indignationjpgny.jpg" width="150" height="110"></a>
+      </p>
+      <p align="center"><br>
+      <iframe width="560" height="349" padding="20" src="http://www.youtube.com/embed/BnRfRH7dPeU" frameborder="0" allowfullscreen></iframe><br>
+      <iframe width="560" height="349" padding="20" src="http://www.youtube.com/embed/6g3gl8k_8U0" frameborder="0" allowfullscreen></iframe><br>
+      <iframe width="560" height="349" padding="20" src="http://www.youtube.com/embed/vMCPx4aWYfc" frameborder="0" allowfullscreen></iframe><br><br>
+      <p>- Pikachu025 and the Tales of Vesperia Translation Team</p>
+- name: Tempus
+  image: tempus.png
+  date: Thu. January 3rd, 2011
+  title: Vesperia Translation Launch
+  content: |
+      <p>Back yonder year, in old September when the PS3 was just cracking open to the dawn, we released <a href="http://goo.gl/3LBo">two</a> <a href="http://goo.gl/WcUa">images</a> showcasing a proof of concept. They demonstrated a very new r3volution application applying patches to Tales of Vesperia, intended to be a demonstration of our potential commitment to translating Tales of Graces f. As far as that goes, it was a success a saw of chain of PS3 releases from our head coder Aaron in the development of the nascent PS3 homebrew realm.</p>
+      <p>An unintended consequence that we should have forseen of this proof of concept was the large amount of requests we received to translate Tales of Vesperia PS3. We had our hands full with Graces, and had no desire to split our efforts and tackle Vesperia alongside. However, we promised help and direction to those with the skill and courage to face the behemoth and take the reigns of Ba'ul into their own hands. Over the months, many came to us, but they lacked the qualities of a hero - determination, skill, courage in the face of overwhelming odds, a willingness to bribe me into helping them.</p>
+      <p>As the days past, our team grew, slowly but surely, and members began completing their assigned tasks and longing for something more. Eventually, from the chaff a few determined individuals arose to take on the beast. Several flagged and fell behind, but one with skill remained. We decided enough was enough, we would not see this man lost in the sea of the lonely web. And thus we came to our conclusion - Vesperia Ho! We set forth the call on twitter and forums, flock to us those with the talent of angels. And so it was that we can now announce, the birth of the side project of the Tales of Graces Translation team - The Tales of Vesperia PS3 Translation.</p>
+      <p>While we have begun what must eventually have been begun, we are still looking for talented aid. If you happen to be a JLPT Lv3 or higher (Lv2 preferred) translator who has played Vesperia PS3 or Graces, and you wish to join us in our struggle, contact us via the Live Chat. Just shout our names and we will be there. For those who dare not enter the realm, we will post progress and updates on this site as we have our other.<br /><br />And with that a Good Night,<br />Tempus and the Tales of Graces Translation Team</p>

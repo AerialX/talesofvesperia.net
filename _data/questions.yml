@@ -1,0 +1,33 @@
+- name: Do I need a Japanese PS3 to use this patch?
+  content: |
+      No.
+      Any console of any region will be able to play the game in English.
+- name: What do I need for this patch?
+  content: |
+      A PS3 that has not been updated beyond official firmware version 3.55 and/or can run homebrew.
+      A retail copy of Tales of Vesperia for the PS3.
+      A Windows PC to run the patching tool.
+      <a href="/">The patching tool itself.</a>
+- name: I am using a custom firmware above 3.55 on my PS3. Will this patch work?
+  content: |
+      Yes. As long as you can run homebrew you should be good.
+- name: How do I run homebrew on my PS3?
+  content: |
+      We're not the right place for that information. As far as I know, <a href="http://www.ps3hax.net/">PS3Hax</a> is the place to go to for news and information on installing and running homebrew on PS3s.
+- name: My PS3 has been updated past official firmware version 3.55. What can I do?
+  content: |
+      We recommend that you use the <a href="http://hyouta.com/vesperia/">Online Translation Guide</a> instead.
+      As of the release of the patch, there are no known legit methods of downgrading a PS3 using only software. There are websites out there claiming that you can, but those are more than likely frauds attempting to install malware on your computer.
+- name: Where can I get a copy of the game?
+  content: |
+      Check the links in the left sidebar.
+- name: New Game+ doesn't show or unlock with the patch, what's wrong?
+  content: |
+      You used the patched TROPHY.TRP in an incompatible environment. If you can't make the console actually accept the modified trophy file, keep or restore the original.
+- name: The text does not fit right on screen. What's wrong?
+  content: |
+      If your font looks like in the latter screenshot, you have failed to patch your EBOOT.BIN. Please ensure it is actually patched before you make any bug reports!
+      <p><img src="images/j8eN0v3.jpg" /><img src="images/mED1zL7.jpg" /></p>
+- name: Wait, what happened to R3volution?
+  content: |
+      It didn't work out, for both time and technical reasons. It's unfortunate, but it wasn't worth holding up the patch even longer for a tool that may or may not ever exist.
