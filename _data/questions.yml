@@ -1,23 +1,20 @@
 - name: Do I need a Japanese PS3 to use this patch?
   content: |
-      No.
-      Any console of any region will be able to play the game in English.
+      No. Any console of any region is able to play the game in English.
 - name: What do I need for this patch?
   content: |
-      A PS3 that has not been updated beyond official firmware version 3.55 and/or can run homebrew.
-      A retail copy of Tales of Vesperia for the PS3.
-      A Windows PC to run the patching tool.
-      <a href="/">The patching tool itself.</a>
-- name: I am using a custom firmware above 3.55 on my PS3. Will this patch work?
-  content: |
-      Yes. As long as you can run homebrew you should be good.
+      <ul>
+      <li>A PS3 that can run homebrew. As of early 2018, this includes all Fat models as well as all regular Slim models manufactured before a certain date. As of writing, all firmware versions work, but versions after 4.82 may no longer work.</li>
+      <li>A retail copy of Tales of Vesperia for the PS3.</li>
+      <li>A PC to run the patching tool.</li>
+      <li>The patching tool itself.</li>
+      </ul>
 - name: How do I run homebrew on my PS3?
   content: |
       We're not the right place for that information. As far as I know, <a href="http://www.ps3hax.net/">PS3Hax</a> is the place to go to for news and information on installing and running homebrew on PS3s.
-- name: My PS3 has been updated past official firmware version 3.55. What can I do?
+- name: My PS3 is unable to run homebrew, or I'm not willing to run homebrew on my console. What can I do instead?
   content: |
       We recommend that you use the <a href="http://hyouta.com/vesperia/">Online Translation Guide</a> instead.
-      As of the release of the patch, there are no known legit methods of downgrading a PS3 using only software. There are websites out there claiming that you can, but those are more than likely frauds attempting to install malware on your computer.
 - name: Where can I get a copy of the game?
   content: |
       Check the links in the left sidebar.
